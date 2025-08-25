@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "id": "attackindicatorinverser",
+  "version": "1.0.0",
+  "name": "Attack Indicator Reversed",
+  "description": "Inverse la direction de la barre d'attaque",
+  "authors": ["Toi"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "client": ["com.tonpseudo.attackindicator.ModMain"]
+  },
+  "depends": {
+    "fabricloader": ">=0.17.2",
+    "minecraft": "1.21.1"
+  }
