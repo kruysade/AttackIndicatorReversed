@@ -4,11 +4,11 @@
   "version": "1.0.0",
   "name": "Attack Indicator Reversed",
   "description": "Inverse la direction de la barre d'attaque",
-  "authors": ["Toi"],
+  "authors": ["Kruysade"],
   "license": "MIT",
   "environment": "*",
   "entrypoints": {
-    "client": ["com.tonpseudo.attackindicator.ModMain"]
+    "client": ["com.kruysade.attackindicator.ModMain"]
   },
   "depends": {
     "fabricloader": ">=0.17.2",
